@@ -1,0 +1,18 @@
+body {
+  font-size:26px;
+  text-align: center;
+  background-color: #C63D0F;
+
+}
+
+#mytemp {
+  font-size:82px;
+
+}
+
+.button.button-primary {
+  font-size:14px;
+  background-color:#7E8F7C!important;
+  border-color: #7E8F7C!important;
+  font-family: Raleway;
+}
